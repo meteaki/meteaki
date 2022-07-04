@@ -7,7 +7,7 @@
 
 <div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
-<a href="https://www.linkedin.com/in/arslanevren/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/meteaki/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:meteaki@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 <a href="https://medium.com/@meteaki"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=meteaki" alt="meteaki" height="28"/></a>
